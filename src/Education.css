@@ -1,0 +1,20 @@
+.opening-div1 {
+    display: grid;
+    text-align: center;
+    place-items: center;
+    background-color: #a9becd;
+    border-radius: 10px;
+    margin: 20px;
+    border: 1px solid #BCC9D2;
+  }
+
+  .my-list {
+    list-style-type: none;
+    padding: 0
+  }
+  .card {
+    display: grid;
+    text-align: center;
+    place-items: center;
+    
+  }

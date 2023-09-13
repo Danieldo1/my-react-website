@@ -1,0 +1,14 @@
+.header {
+    padding: 5px 10px;
+    background-color: #BCC9D2;
+    border-bottom-left-radius: 10px;
+    text-align: start;
+}
+
+.name {
+    font-family: 'Inter', sans-serif;
+    font-size: 39px;
+    color:#99D5FF ;
+    text-shadow: 0px 2px 0px #4D6A80;
+    margin-top: 0%;
+}
