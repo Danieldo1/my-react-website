@@ -1,0 +1,35 @@
+.projects {
+    font-family: 'Roboto Slab', serif;
+    margin: 10px;
+    color: #354a59;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    overflow:hidden;
+}
+
+.projects a{
+    font-size: 25px;
+    font-weight: 600;
+    color: #354a59;
+    margin: 20px;
+}
+
+.projects a:hover {
+    text-decoration: underline;
+    cursor: pointer;
+}
+.projects a:visited {
+    text-decoration: none;
+    color: #353f59;
+  }
+
+
+  .projects h2 {
+    font-size: 30px;
+    font-weight: 800;
+  }
+
+  .projects img {
+    border-radius: 20px;
+  }

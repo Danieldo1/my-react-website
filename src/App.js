@@ -16,7 +16,6 @@ function App() {
         <Header />
         <div className="photo-cont">
           <img className="my-img"  src={myPhoto} height="200px" />
-          
           <Typewriters />
           <AboutMe  />
           <Education />
