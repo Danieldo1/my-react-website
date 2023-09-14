@@ -1,11 +1,13 @@
-.opening-div1 {
-    display: grid;
+.opening-div {
+
     text-align: center;
     place-items: center;
     background-color: #a9becd;
     border-radius: 10px;
     margin: 20px;
     border: 1px solid #BCC9D2;
+
+    
   }
 
   .my-list {
@@ -13,8 +15,35 @@
     padding: 0
   }
   .card {
-    display: grid;
+    display: flex;
     text-align: center;
     place-items: center;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    align-items: center;
+overflow: hidden;
+font-family: 'Roboto Slab', serif;
+color: #354a59;
+
     
+  }
+
+  .edu-img {
+    border-radius: 7px;
+  }
+  
+  .edu-card h4{
+    font-size: 30px;
+    margin: 10px;
+  }
+  .edu-card li{
+    font-weight: 700;
+  }
+  .edu-card a {
+    text-decoration: none;
+    color: #354a59;
+  }
+  .edu-card a:visited {
+    text-decoration: none;
+    color: #354a59;
   }
