@@ -5,7 +5,7 @@ import Header from "./Header";
 import React from "react";
 import AboutMe from "./AboutMe";
 import Education from "./Education";
-
+import Projects from "./Projects";
 
 function App() {
   
@@ -20,6 +20,7 @@ function App() {
           <Typewriters />
           <AboutMe  />
           <Education />
+          <Projects />
         </div>
       </div>
     </>

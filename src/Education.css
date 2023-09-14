@@ -12,7 +12,8 @@
 
   .my-list {
     list-style-type: none;
-    padding: 0
+    padding: 0;
+    margin: 10px;
   }
   .card {
     display: flex;
@@ -46,4 +47,7 @@ color: #354a59;
   .edu-card a:visited {
     text-decoration: none;
     color: #354a59;
+  }
+  .edu-card a:hover {
+    text-shadow: 0px 2px 3px #666666;
   }

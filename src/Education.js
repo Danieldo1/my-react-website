@@ -20,7 +20,7 @@ function Education() {
       {isShown && (
         <div className="card">
           <div className="edu-card">
-            <h4><a href="https://www.heritageschool.ac.cy/">The Heritage Private School, Cyprus</a></h4>
+            <h4><a href="https://www.heritageschool.ac.cy/" target="_blank" rel="noopener noreferrer" >The Heritage Private School, Cyprus</a></h4>
             <img
               className="edu-img"
               src="https://muskita.com.cy/sites/default/files/styles/slick_style/public/2020-08/heritage_private-_school-1920x1080-min.jpg?itok=yde-Z8fG"
@@ -38,7 +38,7 @@ function Education() {
           </div>
 
           <div className="edu-card">
-            <h4><a href="https://uibs.org/">United International Business School, Belgium</a></h4>
+            <h4><a href="https://uibs.org/" target="_blank" rel="noopener noreferrer" >United International Business School, Belgium</a></h4>
             <img
               className="edu-img"
               src="https://images.static-collegedunia.com/public/image/24378f58a0217ef7272b036fd4b8acd4.jpeg?tr=w-800,h-534,c-force"
