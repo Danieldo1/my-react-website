@@ -44,8 +44,8 @@ margin: 5px auto;
 
 .opening-div{
   background-color: #a9becd;
-  border-radius: 10px;
-  margin: 20px;
+  border-radius: 16px;
+  margin: 50px;
   border: 1px solid #BCC9D2;
   
 }
@@ -65,7 +65,7 @@ margin: 5px auto;
   color: #99D5FF;
   background-color: #a9becd;
   padding: 25px 10px;
-  border-radius: 10px;
+  border-radius: 16px;
   text-shadow: 0px 2px 3px #666666;
   border: 0;
   cursor: pointer;

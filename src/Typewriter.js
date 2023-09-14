@@ -7,11 +7,11 @@ function Typewriters() {
         <h2 className='me'>
             <Typewriter 
             options={{
-                strings: ["Hi, Im Daniil, a Web Developer"],
+                strings: ["Hi, I'm Daniil, a Web Developer !"],
                 autoStart: true,
                 delay: 100 ,
                 cursor: "" ,
-                deleteSpeed: 150000,
+                deleteSpeed: 1500000,
             }}
            
             />

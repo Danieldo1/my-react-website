@@ -48,6 +48,7 @@ function Education() {
               <li>3.6 G.P.A</li>
               <li>Business Management Major/Marketing Minor</li>
               <li>Schools President - 1 Year</li>
+              <br/>
             </ul>
           </div>
         </div>
