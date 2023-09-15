@@ -74,3 +74,10 @@ margin: 5px auto;
 .opening-div:hover {
   box-shadow: 11px 7px 28px 4px rgba(66,66,66,0.82);
 }
+
+.footer {
+  font-family: 'Roboto Slab', serif;
+  margin-bottom: 0;
+  padding-left: 20px;
+  font-size: 14px;
+}

@@ -1,7 +1,10 @@
 import React from 'react'
 import Typewriter from 'typewriter-effect'
 
+
 function Typewriters() {
+
+
   return (
     <div>
         <h2 className='me'>
@@ -9,7 +12,7 @@ function Typewriters() {
             options={{
                 strings: ["Hi, I'm Daniil, a Web Developer !"],
                 autoStart: true,
-                delay: 100 ,
+                delay: 85 ,
                 cursor: "" ,
                 deleteSpeed: 1500000,
             }}

@@ -9,7 +9,7 @@
 }
 
 .projects a{
-    font-size: 25px;
+    font-size: 30px;
     font-weight: 600;
     color: #354a59;
     margin: 20px;
@@ -32,4 +32,15 @@
 
   .projects img {
     border-radius: 20px;
+  }
+  .projects p {
+    font-size: 18px;
+    font-weight: 600;
+    margin: 15px;
+  }
+
+  @media only screen and (max-width: 600px){
+    .projects img {
+      height: 250px;
+    }
   }

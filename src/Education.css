@@ -6,7 +6,7 @@
     border-radius: 10px;
     margin: 40px;
     border: 1px solid #BCC9D2;
-
+   
     
   }
 
@@ -16,7 +16,6 @@
     margin: 10px;
   }
   .card {
-    display: flex;
     text-align: center;
     place-items: center;
     flex-direction: column;
@@ -25,12 +24,15 @@
 overflow: hidden;
 font-family: 'Roboto Slab', serif;
 color: #354a59;
-
+margin: 10px;
     
   }
 
+  
+
   .edu-img {
     border-radius: 7px;
+
   }
   
   .edu-card h4{
@@ -43,6 +45,7 @@ color: #354a59;
   .edu-card a {
     text-decoration: none;
     color: #354a59;
+    margin: 10px;
   }
   .edu-card a:visited {
     text-decoration: none;
@@ -50,4 +53,10 @@ color: #354a59;
   }
   .edu-card a:hover {
     text-shadow: 0px 2px 3px #666666;
+  }
+
+ @media only screen and (max-width: 600px){
+    .edu-card img {
+      height: 250px;
+    }
   }
